@@ -1,0 +1,29 @@
+.wrapper{
+    display: flex;
+    justify-content: start;
+    align-items: center;
+    gap: 30px;
+    text-decoration: none;
+}
+
+.bludo{
+    text-decoration: none;
+    color: black;
+    display: flex;
+    background-color: rgb(238, 213, 180);
+    box-sizing: border-box;
+    width: 250px;
+    height: 200px;
+    padding-top: 20px;
+    flex-direction: column;
+    align-items: center;
+    gap: 30px;
+    border-radius: 30px;
+}
+
+.bludo-img{
+    border-radius: 10px;
+    width: 200px;
+    height: 117px;
+}
+
